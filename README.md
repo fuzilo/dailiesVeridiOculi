@@ -8,7 +8,8 @@ Sprint 2 - 21 de Agosto a 01 de Setembro
 Sprint 3 - 4 a 15 de Setembro
 
 Sprint 4 - 18 a 29 de Setembro
-   Mentoria com Ramon-  
+  
+ 18/09  Mentoria com Ramon-  
          Corrigir plano de negócios - Recursos chave -> cloud
                                       Adicionar mais fontes de renda -> assessoria inloco para preservação de espécies
                                       Relacionamento com Cliente -> O que podemos oferecer?Faz manejo? Faz rastreio?
@@ -16,7 +17,6 @@ Sprint 4 - 18 a 29 de Setembro
                                   - Alterar algoritmo de ordenação, em portugol
                                   - escrever algoritmo de rotação em portugol
          Sistema Web - Adiantar o front End, usar o figma como base, mas usar o nosso conhecimento atual
-
          Para o manejo   - Pensarm em rastreamento da árvore Retirada e Replantio
                          - Gerar um serviço de reastreamento
                          - Propor outras formas de Manejo.
