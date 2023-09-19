@@ -9,7 +9,8 @@ Sprint 3 - 4 a 15 de Setembro
 
 Sprint 4 - 18 a 29 de Setembro
   
- 18/09  Mentoria com Ramon-  
+ 18/09  Mentoria com Ramon-
+ 
          Corrigir plano de negócios - Recursos chave -> cloud
                                       Adicionar mais fontes de renda -> assessoria inloco para preservação de espécies
                                       Relacionamento com Cliente -> O que podemos oferecer?Faz manejo? Faz rastreio?
