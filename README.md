@@ -6,6 +6,8 @@ Sprint 1 - 7 a 18 de Agosto
 Sprint 2 - 21 de Agosto a 01 de Setembro
 
 Sprint 3 - 4 a 15 de Setembro
+  14/09 - Banco de dados NoSQL
+    
 
 Sprint 4 - 18 a 29 de Setembro
   
