@@ -13,10 +13,13 @@ Sprint 4 - 18 a 29 de Setembro
          Corrigir plano de negócios - Recursos chave -> cloud
                                       Adicionar mais fontes de renda -> assessoria inloco para preservação de espécies
                                       Relacionamento com Cliente -> O que podemos oferecer?Faz manejo? Faz rastreio?
+                                      
          Atualizar as tecnologias - Python, javascript, HTML, CSS, figma
                                   - Alterar algoritmo de ordenação, em portugol
                                   - escrever algoritmo de rotação em portugol
+                                  
          Sistema Web - Adiantar o front End, usar o figma como base, mas usar o nosso conhecimento atual
+         
          Para o manejo   - Pensarm em rastreamento da árvore Retirada e Replantio
                          - Gerar um serviço de reastreamento
                          - Propor outras formas de Manejo.
