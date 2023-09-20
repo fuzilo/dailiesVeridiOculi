@@ -28,7 +28,10 @@ Sprint 4 - 18 a 29 de Setembro
                          - Propor outras formas de Manejo.
                          - Escolher 1 espécie de árvore. 
                                     
-   
+19/09 Atualização de documentação Dailies
+
+20/09 
+
 Sprint 5 - 02 a 13 de Outubro
 
   6 de Outubro - Entrega do Artigo - Introdução,Objetivos, Metodologia, Estado da Arte
