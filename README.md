@@ -10,7 +10,11 @@ Sprint 2 - 21 de Agosto a 01 de Setembro
 
 
 Sprint 3 - 4 a 15 de Setembro
+4/09- Segunda, levantamos os requisitos com thissiany
 
+05/09 Terça - Banco de dados noSQL, definindo as coleções 
+
+6/09 quarta - passei para o valmir, o discutido sobre as coleções a serem criadas
 
 12/09 - Estruturação do banco de dados NoSQL
 
