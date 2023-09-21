@@ -3,11 +3,23 @@
 
 Sprint 1 - 7 a 18 de Agosto
 
+18/08 - Apresentação do projeto para o orientador Ramon
+
 Sprint 2 - 21 de Agosto a 01 de Setembro
 
+
+
 Sprint 3 - 4 a 15 de Setembro
-  14/09 - Banco de dados NoSQL
-    
+
+
+12/09 - Estruturação do banco de dados NoSQL
+
+13/09 - Estruturação do banco de dados NoSQL
+
+14/09 - Banco de dados NoSQL
+
+15/09 - 
+
 
 Sprint 4 - 18 a 29 de Setembro
   
@@ -22,15 +34,27 @@ Sprint 4 - 18 a 29 de Setembro
                                   - escrever algoritmo de rotação em portugol
                                   
          Sistema Web - Adiantar o front End, usar o figma como base, mas usar o nosso conhecimento atual
+
+         sistema de captura de imagens por drone - como é feito.
          
-         Para o manejo   - Pensarm em rastreamento da árvore Retirada e Replantio
+         Para o manejo   - Pensar em rastreamento da árvore Retirada e Replantio
                          - Gerar um serviço de reastreamento
                          - Propor outras formas de Manejo.
                          - Escolher 1 espécie de árvore. 
+                         - ranking das empresas que mais conservam e protegem a biodiversidade
                                     
 19/09 Atualização de documentação Dailies
 
 20/09 
+   Mteodologia - > O que é scrum, início e fim das sprints
+
+   Resultado -> Detalhamento do que foi executado em cada Sprint
+  Decidimos dividir algumas tarefas sobre o sistema WEB, Ricardo retomará o argito 
+
+21/09
+
+22/09
+
 
 Sprint 5 - 02 a 13 de Outubro
 
