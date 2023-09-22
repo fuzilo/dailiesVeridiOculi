@@ -55,7 +55,8 @@ Sprint 4 - 18 a 29 de Setembro
    Resultado -> Detalhamento do que foi executado em cada Sprint
   Decidimos dividir algumas tarefas sobre o sistema WEB, Ricardo retomará o argito 
 
-21/09
+21/09 - Luan levou esporro da Thissiany
+
 
 22/09
 
