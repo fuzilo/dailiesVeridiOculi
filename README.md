@@ -60,7 +60,7 @@ Sprint 4 - 18 a 29 de Setembro
 22/09 - Incrementação do Backlog
 
 
-22/09
+22/09 - aula sobre rotação de imagem será ministrada dia 29/09
 
 
 Sprint 5 - 02 a 13 de Outubro
