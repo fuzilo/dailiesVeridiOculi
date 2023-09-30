@@ -70,6 +70,8 @@ Sprint 4 - 18 a 29 de Setembro
 
 28/09 - Modelagem Banco NoSQL. Atualização do artigo.
 
+29/09 - aprendizado Python
+
 Sprint 5 - 02 a 13 de Outubro
 
   6 de Outubro - Entrega do Artigo - Introdução,Objetivos, Metodologia, Estado da Arte
