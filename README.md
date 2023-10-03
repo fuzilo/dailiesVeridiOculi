@@ -75,6 +75,17 @@ Sprint 4 - 18 a 29 de Setembro
 Sprint 5 - 02 a 13 de Outubro
 
 02/10 - Definição dos tópicos para montagem da metodologia, Scrum e MongoDB
+03/10 - Atualização do Product Backlog
+
+Criar um protótipo da tela que fará a análise da imagem. Baseado naquilo que vimos no curso de Sábado.
+Podemos fazer uma interface em que vamos escolher a imagem para fazer o upload. Feito o upload para dentro de um Bucket, escolhemos um dataset (por exemplo, voltado para árvores nativas, ou um voltado para espécies invasoras)
+
+tentar fazer um gif dessa imagem sendo pontuada com o que o dataset entendeu que encontrou semelhança.
+
+Demonstrar o formato dos dados gerados
+demonstrar o arquivo final gerado, em formato de planilha ou relatório
+
+04/10 - 
 
   6 de Outubro - Entrega do Artigo - Introdução,Objetivos, Metodologia, Estado da Arte
 
