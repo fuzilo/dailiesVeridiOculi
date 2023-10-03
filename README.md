@@ -74,6 +74,8 @@ Sprint 4 - 18 a 29 de Setembro
 
 Sprint 5 - 02 a 13 de Outubro
 
+02/10 - Definição dos tópicos para montagem da metodologia, Scrum e MongoDB
+
   6 de Outubro - Entrega do Artigo - Introdução,Objetivos, Metodologia, Estado da Arte
 
 Sprint 6 - 16 a 27 de Outubro
