@@ -85,7 +85,10 @@ tentar fazer um gif dessa imagem sendo pontuada com o que o dataset entendeu que
 Demonstrar o formato dos dados gerados
 demonstrar o arquivo final gerado, em formato de planilha ou relatório
 
-04/10 - 
+04/10 - Escrevendo a metodologia do artigo
+        Landing page por Luan
+        Valmir aguardando para dar continuidade na interface do sistema Web
+                providenciar material de apoio para desenvolvimento do protótipo que fará análise d
 
   6 de Outubro - Entrega do Artigo - Introdução,Objetivos, Metodologia, Estado da Arte
 
