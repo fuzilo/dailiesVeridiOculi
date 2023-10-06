@@ -90,6 +90,9 @@ demonstrar o arquivo final gerado, em formato de planilha ou relatório
         Valmir aguardando para dar continuidade na interface do sistema Web
                 providenciar material de apoio para desenvolvimento do protótipo que fará análise d
 
+05/10 - Finalizado a escrita da metodologia, inicio da organização e inserção dos parágrafos.
+
+
   6 de Outubro - Entrega do Artigo - Introdução,Objetivos, Metodologia, Estado da Arte
 
 Sprint 6 - 16 a 27 de Outubro
