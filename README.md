@@ -95,6 +95,8 @@ demonstrar o arquivo final gerado, em formato de planilha ou relatório
 
   6 de Outubro - Entrega do Artigo - Introdução,Objetivos, Metodologia, Estado da Arte
 
+  09/10 - Tela de Login em JS por Valmir, LandingPage por Luan
+
 Sprint 6 - 16 a 27 de Outubro
 
 Sprint 7 - 30 a 10 de Novembro
