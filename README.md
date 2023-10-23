@@ -99,6 +99,9 @@ demonstrar o arquivo final gerado, em formato de planilha ou relatório
 
 Sprint 6 - 16 a 27 de Outubro
 
+
+23/10 - 
+
 Sprint 7 - 30 a 10 de Novembro
 
 Sprint 8 - 13 a 24 de Novembro
