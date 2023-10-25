@@ -100,7 +100,9 @@ demonstrar o arquivo final gerado, em formato de planilha ou relatório
 Sprint 6 - 16 a 27 de Outubro
 
 
-23/10 - 
+23/10 - Luan, Desenvolvimento do prototipo da landing Page, Valmir - Front end em Java Script
+
+24/10 - Luan, desenvolvimento do prototipo da landing page
 
 Sprint 7 - 30 a 10 de Novembro
 
