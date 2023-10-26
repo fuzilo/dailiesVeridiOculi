@@ -104,6 +104,8 @@ Sprint 6 - 16 a 27 de Outubro
 
 24/10 - Luan, desenvolvimento do prototipo da landing page
 
+25/10 - Valmir, fez conexão do banco mongodb com Front End em Java Script
+
 Sprint 7 - 30 a 10 de Novembro
 
 Sprint 8 - 13 a 24 de Novembro
